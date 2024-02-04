@@ -17,7 +17,7 @@
 
 🔗 **Connect:** Explore my projects on [GitHub](https://github.com/vivekyadavktr) and connect with me on [LinkedIn](https://www.linkedin.com/in/askvivekyadav).
 
-🌐 **Tech Stack:** PHP, JavaScript, MySQL, CSS, WordPress, HTML, Bootstrap, Tailwind CSS, AWS.
+🌐 **Tech Stack:** PHP, Laravel, JavaScript, MySQL, CSS, WordPress, HTML, Bootstrap, Tailwind CSS, AWS.
 
 🌱 **On the Horizon:** Exploring the realms of ReactJS and dipping my toes into the world of data science.
 
