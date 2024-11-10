@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivek Kumar Yadav
+- 👋 Hi, I’m Vivek Prakash
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning java Script
 - 💞️ I’m looking to collaborate on Web Developer
@@ -7,7 +7,7 @@
 
 ---
 
-👋 **Hello World! I'm Vivek Kumar Yadav**, an Electrical Engineering student with a passion for crafting digital experiences through web development. Currently pursuing my B.Tech at Jodhpur Institute of Engineering & Technology, I have a strong foundation in PHP, JavaScript, MySQL, and WordPress. My journey in the tech realm extends beyond the academic corridors; as a former Web Developer at Victory Mantra Pvt. Ltd., I contributed to diverse projects, gaining hands-on experience in WordPress themes and plugins.
+👋 **Hello World! I'm Vivek Prakash**, an Electrical Engineering student with a passion for crafting digital experiences through web development. Currently pursuing my B.Tech at Jodhpur Institute of Engineering & Technology, I have a strong foundation in PHP, JavaScript, MySQL, and WordPress. My journey in the tech realm extends beyond the academic corridors; as a former Web Developer at Victory Mantra Pvt. Ltd., I contributed to diverse projects, gaining hands-on experience in WordPress themes and plugins.
 
 🚀 **Project Explorer:** I've delved into creating a dynamic News Blog Web App, ensuring real-time access to the latest happenings. Additionally, I'm architecting a College Management System to streamline academic processes.
 
