@@ -15,7 +15,7 @@
 
 🏆 **Beyond the Code:** A martial arts enthusiast, I proudly participated in the 61 SGFI Taekwondo National Game. Committed to education, I serve as a Teaching Assistant, sharing my knowledge through web development workshops for beginners.
 
-🔗 **Connect:** Explore my projects on [GitHub](https://github.com/vivekyadavktr) and connect with me on [LinkedIn](https://www.linkedin.com/in/askvivekyadav).
+🔗 **Connect:** Explore my projects on [GitHub](https://github.com/codebyvivekprakash) and connect with me on [LinkedIn](https://www.linkedin.com/in/codebyvivek).
 
 🌐 **Tech Stack:** PHP, Laravel, JavaScript, MySQL, CSS, WordPress, HTML, Bootstrap, Tailwind CSS, AWS.
 
